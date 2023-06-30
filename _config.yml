@@ -96,12 +96,12 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Jack Garigliano" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/jackname.svg" # Site logo, also used in jekyll-seo-tag
-description: "I'm Jack Garigliano, a graduate student in political science at Northwestern University. My contact info is below - get in touch!" # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/jackname.png" # Site logo, also used in jekyll-seo-tag
+description: "I'm Jack Garigliano, a graduate student in political science at Northwestern University. My contact" # Site description and default description, also used in jekyll-seo-tag
 url: "jack-garigliano.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jack-garigliano/jack-garigliano.github.io"
-email: "jack.garigliano@u.northwestern.edu"
+email: "https://jack.garigliano@u.northwestern.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
