@@ -139,7 +139,7 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Email: https://jack.garigliano@u.northwestern.edu
+  Email: "https://jack.garigliano@u.northwestern.edu"
   Twitter: https://twitter.com/jackgarig
   LinkedIn: https://www.linkedin.com/in/jack-garigliano-9a074490/
   GitHub: https://github.com/jgarig
