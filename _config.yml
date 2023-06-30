@@ -97,7 +97,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Jack Garigliano" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/jackname.png" # Site logo, also used in jekyll-seo-tag
-description: "I'm Jack Garigliano, a graduate student in political science at Northwestern University. My contact" # Site description and default description, also used in jekyll-seo-tag
+description: "I'm Jack Garigliano, a graduate student in political science at Northwestern University." # Site description and default description, also used in jekyll-seo-tag
 url: "jack-garigliano.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jack-garigliano/jack-garigliano.github.io"
