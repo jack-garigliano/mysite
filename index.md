@@ -1,7 +1,6 @@
 ---
 
 ---
-
 # Hi, I'm Jack.
 
 {% include figure.html image="/assets/jack-garigliano-profshot_cropped.JPG" position="right" width="300" height="800" %}
