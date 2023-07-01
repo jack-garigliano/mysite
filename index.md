@@ -1,6 +1,5 @@
 ---
 title: Hi, I'm Jack
-feature_text: "test"
 feature_image: "/assets/new-era-women-workers-cropped-2.jpg"
 ---
 
