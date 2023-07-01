@@ -1,6 +1,6 @@
 ---
 title: Hi, I'm Jack
-feature_image: "/assets/office-janitor-cropped.jpg"
+feature_image: "/assets/winter-snow-sweeper.jpg"
 ---
 
 I'm a graduate student in Political Science at Northwestern University. I'm interested in the ways that changes to the nature of work structure our experience with and engagement in political life in the United States.
